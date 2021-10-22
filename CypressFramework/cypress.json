@@ -1,0 +1,9 @@
+{
+    "env": {
+        "base_url":"https://github.com/ReshailAlvi",
+        "profile_path":"/ReshailAlvi",
+        "job_title":"software development engineer in test"
+      },
+
+      "chromeWebSecurity": false
+}
